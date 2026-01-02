@@ -41,8 +41,8 @@
 
 ## 💬 Contact / Support
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join%20Channel-KING--M%20Updates-brightgreen?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb5wVbsEQIanKXKYrq1c)  
-[![WhatsApp Group](https://img.shields.io/badge/Join%20Support--Group-brightgreen?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/CjBNEKIJq6VE2vrJLDSQ2Z?mode=wwt)
+[![WhatsApp Channel](https://whatsapp.com/channel/0029VbBk9IKAjPXIih13Q33d)  
+[![WhatsApp Group](https://img.shields.io/badge/Join%20Support--Group-brightgreen?style=for-the-badge&logo=whatsapphttps://whatsapp.com/channel/0029VbBk9IKAjPXIih13Q33d
 
 ---
 
