@@ -16,7 +16,7 @@
 
 1. **Fork the Repository**  
    <p>
-  <a href="https://github.com/sesco001/KING-MD/fork" target="_blank">
+  <a href="https://github.com/sesco001/ARYAN-DEV/fork" target="_blank">
     <img src="https://img.shields.io/badge/Fork--Repository-black?style=for-the-badge&logo=github" alt="Fork ARYAN-DEV on GitHub">
   </a>
 </p>
@@ -25,14 +25,14 @@
 2. **Pair Code Setup**  
    <p align="center">
      <a href="https://peace-hub-mcbo.onrender.com/pair">
-       <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code">
+       <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code">ARYAN
      </a>
    </p>
 
 3. **Deploy on Heroku**  
 <p>
   <a href="https://veriiiiii.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Deploy--to--Heroku-indigo?style=for-the-badge&logo=heroku" alt="Deploy KING-MD">
+    <img src="https://img.shields.io/badge/Deploy--to--Heroku-indigo?style=for-the-badge&logo=heroku" alt="Deploy ARYAN-DEV">
   </a>
 </p>
 
