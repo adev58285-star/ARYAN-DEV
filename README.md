@@ -31,7 +31,7 @@
 
 3. **Deploy on Heroku**  
 <p>
-  <a href="https://veriiiiii.vercel.app/" target="ARYAN-DEV_blank">
+  <a href="https://veriiiiii.vercel.app/" target="ARYAN-DEV_blank">typing
     <img src="https://img.shields.io/badge/Deploy--to--Heroku-indigo?style=for-the-badge&logo=heroku" alt="Deploy ARYAN-DEV">
   </a>
 </p>
