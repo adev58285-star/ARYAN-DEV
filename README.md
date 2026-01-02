@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/as1b4c.png" alt="KING-M" width="300"/>
+  <img src="https://files.catbox.moe/12khvr.jpg" alt="KING-M" width="300"/>
 </p>
 
 <p align="center">
-  <a href="#"><img title="KING-M" src="https://img.shields.io/badge/KING--M-your%20whatsapp%20manager?colorA=%230017ff&colorB=%23ff0099&style=for-the-badge"></a>
+  <a href="#"><img title="ARYAN-DEV" src="https://img.shields.io/badge/KING--M-your%20whatsapp%20manager?colorA=%230017ff&colorB=%23ff0099&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 1. **Fork the Repository**  
    <p>
   <a href="https://github.com/sesco001/KING-MD/fork" target="_blank">
-    <img src="https://img.shields.io/badge/Fork--Repository-black?style=for-the-badge&logo=github" alt="Fork KING-MD on GitHub">
+    <img src="https://img.shields.io/badge/Fork--Repository-black?style=for-the-badge&logo=github" alt="Fork ARYAN-DEV on GitHub">
   </a>
 </p>
 
