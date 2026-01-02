@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://files.catbox.moe/12khvr.jpg" alt="KING-M" width="300"/>
+  <img src="https://files.catbox.moe/12khvr.jpg" alt="ARYAN-DEV" width="300"/>
 </p>
 
 <p align="center">
-  <a href="#"><img title="ARYAN-DEV" src="https://img.shields.io/badge/KING--M-your%20whatsapp%20manager?colorA=%230017ff&colorB=%23ff0099&style=for-the-badge"></a>
+  <a href="#"><img title="ARYAN-DEV" src="https://img.shields.io/badge/ARYAN---DEV-your%20whatsapp%20manager?colorA=%230017ff&colorB=%23ff0099&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 3. **Deploy on Heroku**  
 <p>
-  <a href="https://veriiiiii.vercel.app/" target="_blank">
+  <a href="https://veriiiiii.vercel.app/" target="ARYAN-DEV_blank">
     <img src="https://img.shields.io/badge/Deploy--to--Heroku-indigo?style=for-the-badge&logo=heroku" alt="Deploy ARYAN-DEV">
   </a>
 </p>
